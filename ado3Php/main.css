@@ -1,0 +1,37 @@
+body{
+	font-family: ;
+	background-image: url(fundo.jpg);
+}
+.tudo{
+	background-color: white;
+	width: 80%;
+	height: 100%;
+	display:block;
+	margin:auto;
+	padding: 20px;
+}
+.cabecalho{
+	text-align: center;
+	padding: 15px;
+}
+.container{
+	text-align: center;
+}
+table{
+	width: 100%;
+	border: 2px solid #000;
+}
+h3{
+	padding: 15px;
+}
+.cad{
+	margin: 25px 25px;
+	width: 160px;
+}
+.voltar{
+	width: 30px;
+}
+.sair{
+	margin: -1700px -1000px 0px 0px;
+	height: 40px;
+}
